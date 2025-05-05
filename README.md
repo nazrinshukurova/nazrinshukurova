@@ -1,4 +1,4 @@
-About Me👩🏼‍💻
+About Me👩🏼‍💻:
 Hello! I'm Shukurova Nazrin, a passionate frontend developer with a diverse skill set in modern web technologies. 
 I love creating intuitive and responsive web applications that deliver exceptional user experiences.
 
